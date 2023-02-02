@@ -27,5 +27,9 @@ For support and assistance, join our Discord server at https://discord.gg/8BWxEB
 - aiohttp
 - python>=3.9.0
 
+## Many thanks to
+- D3vd with Meme_Api https://github.com/D3vd/Meme_Api
+- Pycord https://github.com/Pycord-Development/pycord
+
 ## Contribution
 Feel free to contribute to this project by creating a pull request.
